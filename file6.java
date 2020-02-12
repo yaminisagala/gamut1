@@ -1,7 +1,0 @@
-hi
-
-hello
-
-blue 
-
-car

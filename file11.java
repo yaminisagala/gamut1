@@ -1,6 +1,0 @@
-
-file new
-
-sentence
-
-carrot
